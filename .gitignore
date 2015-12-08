@@ -1,1 +1,2 @@
-ignore.jpg
+*.jpg
+!2.jpg
